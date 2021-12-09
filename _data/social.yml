@@ -2,3 +2,6 @@ orcid:
   name: ORCID
   icon: icon-orcid
   prepend: "https://orcid.org/"
+caltech:
+  name: Caltech Profile
+  icon: icon-library
