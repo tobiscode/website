@@ -5,6 +5,7 @@ remote_theme: hydecorp/hydejack@v9.1.5
 plugins:
   - jekyll-include-cache
 google_fonts: false
+google_analytics: false
 author:
   name:  Tobias Köhne
   email: tkoehne@caltech.edu
@@ -14,3 +15,7 @@ author:
     email: tkoehne@caltech.edu
     caltech: http://www.seismolab.caltech.edu/koehne_t.html
 accent_image: /assets/website-background.jpg
+lang: en
+kramdown:
+  math_engine: mathjax
+  math_engine_opts: {}
