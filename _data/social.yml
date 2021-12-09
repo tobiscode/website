@@ -1,0 +1,4 @@
+orcid:
+  name: ORCID
+  icon: icon-orcid
+  prepend: "https://orcid.org/"
