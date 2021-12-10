@@ -14,6 +14,6 @@ about this and other projects I am or was involved with on the
 Outside of research, I am very engaged in Caltech's student government, as well as
 efforts to improve the diversity, equity, and inclusion in my division.
 
-You can learn more about my academic and professional background, as well as
+You can learn more about my academic and professional background, and see
 my publication list, on my [ORCID profile](https://orcid.org/0000-0002-8400-7255).
 If you're interested in my full CV, please send me an email.
