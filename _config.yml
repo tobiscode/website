@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 title: Tobias Köhne
-description: PhD Student
+description: Geophysics PhD Student
 remote_theme: hydecorp/hydejack@v9.1.5
 plugins:
   - jekyll-include-cache
