@@ -29,7 +29,8 @@ image timeseries to map damage caused by natural disasters using coherence chang
 and machine learning.
 
 For more information, check out our [paper](https://doi.org/10.1109/TGRS.2021.3084209)
-published in IEEE Transactions on Geoscience and Remote Sensing.
+published in IEEE Transactions on Geoscience and Remote Sensing (or the
+[preprint](https://arxiv.org/abs/2105.11544) on arXiv).
 
 ## Excursion into Planetary Sciences: About Retrograde Trojan Asteroids
 

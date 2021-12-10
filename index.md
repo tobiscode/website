@@ -15,5 +15,6 @@ Outside of research, I am very engaged in Caltech's student government, as well 
 efforts to improve the diversity, equity, and inclusion in my division.
 
 You can learn more about my academic and professional background, and see
-my publication list, on my [ORCID profile](https://orcid.org/0000-0002-8400-7255).
+my publication list, on my [ORCID](https://orcid.org/0000-0002-8400-7255) or
+[Google Scholar](https://scholar.google.com/citations?user=1Un3svkAAAAJ) profiles.
 If you're interested in my full CV, please send me an email.

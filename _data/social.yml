@@ -5,3 +5,7 @@ orcid:
 caltech:
   name: Caltech Profile
   icon: icon-library
+gscholar:
+  name: Google Scholar
+  icon: icon-googlescholar
+  prepend: "https://scholar.google.com/citations?user="
