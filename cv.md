@@ -32,11 +32,11 @@ tkoehne@caltech.edu
 
 ## Teaching Experience
 
-| 01-03/2021 | Teaching Assistant at Caltech for |
+| 01–03/2021 | Teaching Assistant at Caltech: |
 |  | Introduction to Earth and Planetary Sciences: Geophysics |
-| 04–06/2020 | Teaching Assistant at Caltech for |
+| 04–06/2020 | Teaching Assistant at Caltech: |
 |  | Tectonic Geodesy |
-| 10/2013 – 03/2015 | Teaching Assistant at the TUM for |
+| 10/2013 – 03/2015 | Teaching Assistant at the TUM: |
 |  | Higher Mathematics for Mechanical Engineering |
 {:.stretch-table}
 
@@ -50,17 +50,16 @@ tkoehne@caltech.edu
 
 ## Social Engagement
 
-| 06/2020 – today | Member of the graduate student council, |
-|  | elected student representative for the Division of Geological and Planetary Sciences, |
+| 06/2020 – today | Member of the graduate student council |
+|  | Elected student representative for the Division of Geological and Planetary Sciences |
 |  | Co-Chair of the student council since 02/2021 |
 | 09/2020 – today | Mentor in the buddy program for first-year Geophysics students |
 | 08/2012 – today | Member of the Service Civil International (German Branch) e.V. |
-| 10/2012 – 09/2015 | Member of the student council, |
-|  | elected student representative within the Department of Mechanical Engineering, |
-|  | head of the student newspaper |
+| 10/2012 – 09/2015 | Member of the student council |
+|  | Elected student representative within the Department of Mechanical Engineering, |
+|  | Head of the student newspaper |
 | 09/2011 – 07/2012 | Volunteer Service in Togo, West Africa with the SCI Germany: |
-|  | Teacher for Mathematics, Physics and Chemistry at the |
-|  | Collège d’Enseignement Général de Gadjagan |
+|  | Teacher for Mathematics, Physics and Chemistry at the C.E.G. de Gadjagan |
 {:.stretch-table}
 
 ## Publications
