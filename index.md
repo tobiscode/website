@@ -1,7 +1,5 @@
 ---
-layout: list
-title: Home
 cover: true
 ---
 
-Under construction.
+Welcome to my personal website!
