@@ -24,3 +24,6 @@ kramdown:
 menu:
   - title: Research
     url: /research
+no_page_style: true
+no_toc: true
+no_breadcrumbs: true
