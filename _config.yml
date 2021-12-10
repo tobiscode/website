@@ -17,7 +17,7 @@ author:
     email: tkoehne@caltech.edu
     caltech: http://www.seismolab.caltech.edu/koehne_t.html
 accent_image: /assets/website-background.jpg
-accent_color: rgb(78,183,217)
+accent_color: rgb(45,82,146)
 lang: en
 kramdown:
   math_engine: mathjax
