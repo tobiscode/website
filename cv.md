@@ -3,7 +3,8 @@ layout: plain
 title: Curriculum Vitae
 ---
 
-Download my CV as a [PDF]({% link files/cv.pdf %}).
+Download this CV as a PDF [here]({% link files/cv.pdf %}).
+For a more detailed CV, please send me an email.
 
 ## Contact
 
@@ -27,6 +28,7 @@ tkoehne@caltech.edu
 |  | Overall grade 1.5 (top 5% of the class) |
 | 04/2008 – 09/2010 | FernUniversität Hagen via the Young Business School Heidelberg, Germany |
 |  | B. Sc. Business Informatics, passed exams in 7 courses |
+{:.stretch-table}
 
 ## Teaching Experience
 
@@ -35,6 +37,7 @@ tkoehne@caltech.edu
 | 04–06/2020 | Teaching Assistant for Tectonic Geodesy, Caltech |
 | 10/2013 – 03/2015 | Teaching Assistant for Higher Mathematics for |
 |  | Mechanical Engineering, TUM |
+{:.stretch-table}
 
 ## Internships
 
@@ -43,6 +46,7 @@ tkoehne@caltech.edu
 |  | Ottobrunn, Germany|
 | 08–09/2012 | Industrial internship with Premium Aerotec GmbH |
 |  | Augsburg, Germany |
+{:.stretch-table}
 
 ## Social Engagement
 
@@ -54,4 +58,11 @@ tkoehne@caltech.edu
 | 10/2012 – 09/2015 | Member of the student council, elected student representative |
 |  | within the Department of Mechanical Engineering, head of the student newspaper |
 | 09/2011 – 07/2012 | Volunteer Service in Togo, West Africa with the SCI Germany: |
-|  | Teacher for Mathematics, Physics and Chemistry at the Collège d’Enseignement Général de Gadjagan |
+|  | Teacher for Mathematics, Physics and Chemistry at the |
+|  | Collège d’Enseignement Général de Gadjagan |
+{:.stretch-table}
+
+## Publications
+
+See my [ORCID](https://orcid.org/0000-0002-8400-7255) or
+[Google Scholar](https://scholar.google.com/citations?user=1Un3svkAAAAJ) profiles.
