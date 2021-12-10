@@ -1,4 +1,7 @@
-# Research
+---
+layout: page
+title: Research
+---
 
 ## Project 1
 
