@@ -17,8 +17,9 @@ My work is the creation of a Python software package that allows users to
 quickly and easily do all of this, with current best practices already included.
 
 For more information, check out the
-[GitHub project](https://github.com/tobiscode/disstans) or the
-[poster](https://www.essoar.org/doi/abs/10.1002/essoar.10509232.1) I made for
+[preprint](https://doi.org/10.31223/X56K9J), the
+[GitHub project](https://github.com/tobiscode/disstans), or the
+[poster](https://doi.org/10.1002/essoar.10509232.1) I made for
 AGU's Fall Meeting 2021.
 
 ## Machine Learning for Damage Proxy Mapping
