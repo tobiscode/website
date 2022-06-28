@@ -50,11 +50,11 @@ tkoehne@caltech.edu
 
 ## Social Engagement
 
-| 06/2020 – today | Member of the graduate student council |
-|  | Elected student representative for the Division of Geological and Planetary Sciences |
-|  | Co-Chair of the student council since 02/2021 |
 | 09/2020 – today | Mentor in the buddy program for first-year Geophysics students |
 | 08/2012 – today | Member of the Service Civil International (German Branch) e.V. |
+| 06/2020 – 06/2022 | Member of the Graduate Student Council |
+|  | Elected student representative for the Division of Geological and Planetary Sciences |
+|  | Co-Chair of the student council 02/2021 - 06/2022 |
 | 10/2012 – 09/2015 | Member of the student council |
 |  | Elected student representative within the Department of Mechanical Engineering, |
 |  | Head of the student newspaper |
