@@ -13,11 +13,13 @@ GNSS networks allow researchers to monitor ground motion and deformation
 (e.g., due to tectonic plate movement, earthquakes, or volcanic activity)
 through the decomposition of the observed timeseries into different components
 (secular plate motion, seasonal oscillations, etc.).
-My work is the creation of a Python software package that allows users to
+My work included the creation of a Python software package that allows users to
 quickly and easily do all of this, with current best practices already included.
 
 For more information, check out the
-[preprint](https://doi.org/10.31223/X56K9J), the
+[published study](https://doi.org/10.1016/j.cageo.2022.105247)
+in _Computers & Geosciences_, the
+[accepted preprint](https://doi.org/10.31223/X56K9J), the
 [GitHub project](https://github.com/tobiscode/disstans), or the
 [poster](https://doi.org/10.1002/essoar.10509232.1) I made for
 AGU's Fall Meeting 2021.
