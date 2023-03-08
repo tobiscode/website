@@ -24,6 +24,14 @@ in _Computers & Geosciences_, the
 [poster](https://doi.org/10.1002/essoar.10509232.1) I made for
 AGU's Fall Meeting 2021.
 
+## Simulations of Earthquake Sequences
+
+I have recently started to probe, in a probabilistic fashion, the geodetic evidence
+for different rheological models used to explain longterm rock behavior at subduction
+plate interfaces. I presented preliminary findings from 2D synthetic GNSS network
+datasets at AGU's Fall Meeting in 2022, you can find the poster
+[here](https://doi.org/10.1002/essoar.10513000.1).
+
 ## Machine Learning for Damage Proxy Mapping
 
 Together with Oliver Stephenson, Zach Ross, Mark Simons, and others, I was also

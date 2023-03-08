@@ -8,7 +8,8 @@ Welcome to my personal website!
 
 My name is Tobias Köhne, a PhD Student in Geophysics in the Seismological
 Laboratory at the California Institute of Technology. My current research
-focus lies in the analysis of GNSS network timeseries, and you can find more
+focus lies in the analysis of GNSS network timeseries and simulations of
+earthquake sequences of subduction interfaces. You can find more
 about this and other projects I am or was involved with on the
 [Research]({% link research.md %}) page.
 Outside of research, I am very engaged in graduate students'

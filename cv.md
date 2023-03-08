@@ -32,10 +32,10 @@ tkoehne@caltech.edu
 
 ## Teaching Experience
 
+| 01–03/2023, 04–06/2020 | Teaching Assistant at Caltech: |
+|  | Tectonic Geodesy |
 | 01–03/2021 | Teaching Assistant at Caltech: |
 |  | Introduction to Earth and Planetary Sciences: Geophysics |
-| 04–06/2020 | Teaching Assistant at Caltech: |
-|  | Tectonic Geodesy |
 | 10/2013 – 03/2015 | Teaching Assistant at the TUM: |
 |  | Higher Mathematics for Mechanical Engineering |
 {:.stretch-table}
@@ -50,7 +50,10 @@ tkoehne@caltech.edu
 
 ## Social Engagement
 
+| 06/2022 – today | Member of the Unlearning Racism in Geosciences Pod |
+|  | in the Division of Geological and Planetary Sciences, Caltech |
 | 09/2020 – today | Mentor in the buddy program for first-year Geophysics students |
+| 10/2019 – today | Elected officer of the Caltech Alpine Club |
 | 08/2012 – today | Member of the Service Civil International (German Branch) e.V. |
 | 06/2020 – 06/2022 | Member of the Graduate Student Council |
 |  | Elected student representative for the Division of Geological and Planetary Sciences |
